@@ -1,5 +1,3 @@
-# tests/test_main.py
-
 import sys
 import os
 
